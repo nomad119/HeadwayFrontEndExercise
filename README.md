@@ -1,17 +1,18 @@
-#Headway Front-end Exercise
+# Headway Front-end Exercise
 
-#### Getting started
+## Getting started
 
 ---
+
 Use the follow steps to get the demo running.
 
 1. Clone the repo
---use the following command to clone the repo: ```https://github.com/nomad119/HeadwayFrontEndExercise.git```
+   --use the following command to clone the repo: `https://github.com/nomad119/HeadwayFrontEndExercise.git`
 
-2. Enter the HeadwayFrontEndExercise folder and run ```npm install```
+2. Enter the HeadwayFrontEndExercise folder and run `npm install`
 
-3. Run ```npm run start``` to start the development server.
--- The default port that the development server runs on is 3000. It will go to another avaible port if another application is running on that port.
+3. Run `npm run start` to start the development server.
+   -- The default port that the development server runs on is 3000. It will go to another avaible port if another application is running on that port.
 
 The Login / Signup view will be under <localhost:3000/login> by default.
 The Task-Filled view will be under <localhost:3000/dashboard> by default.
