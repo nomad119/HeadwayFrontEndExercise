@@ -15,6 +15,6 @@ Use the follow steps to get the demo running.
    -- The default port that the development server runs on is 3000. It will go to another avaible port if another application is running on that port.
 
 The Login / Signup view will be under <localhost:3000/login> by default.
-The Task-Filled view will be under <localhost:3000/dashboard> by default.
+The Task-Filled view will be under <localhost:3000/> by default.
 
 Double check the port number in your terminal if the port is not working, and modify the port number in the url.
