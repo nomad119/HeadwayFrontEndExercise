@@ -1,7 +1,7 @@
 # Headway Front-end Exercise
 
 ## Getting started
-### Live demo at <https://demo.krausecode.dev/#/login> and <https://demo.krausecode.dev/#/login>
+#### Live demo at <https://demo.krausecode.dev/#/> and <https://demo.krausecode.dev/#/login>
 ---
 
 Use the follow steps to get the demo running.
